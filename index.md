@@ -1,6 +1,7 @@
 # Aarushi's First CS193 Homework
 What I like about CS 193:
 - The helpful nature of the TA's
+- The TA's joke
 - The usefulness of the content we are taught, especially in relation to what we are learning in CS 180
 - The relaxed environment of the classroom
 - The organization of the Blackboard page
